@@ -4,5 +4,3 @@ return [
     { id: 2, firstName: 'James', location: 'Columbia' },
     { id: 5, firstName: 'Serena', location: 'San Francisco' }];
 }
-const students = getListStudents();
-console.log(students);
